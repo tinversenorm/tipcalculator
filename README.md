@@ -9,7 +9,7 @@ Time spent: 2 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The app itself was relatively simple, but I wanted to learn and understand swift/iOS design better before I added improved design and functionality.
+The app itself was relatively simple, but I wanted to learn and understand swift/iOS design better before I added improved design and functionality.  I had more trouble with logistics, since I had never created a video walkthrough and haven't used the github workflow very often.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2015 Pranav Harathi
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
